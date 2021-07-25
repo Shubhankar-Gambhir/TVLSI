@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/shubhankar/TVLSI/TVLSI.sim/sim_1/synth/func/xsim/TEST_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LFSR
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/shubhankar/TVLSI/TVLSI.srcs/sim_1/new/TEST.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TEST
